@@ -44,7 +44,7 @@ Honestly not sure if it includes @import support but can definitely be added.
 **Code!** at https://github.com/marks/RubyScriptPageLoad
 
 
-**References:**
-1. http://phantomjs.org/  
-2. https://github.com/marcelduran/yslow/wiki/PhantomJS  
-Also: http://scriptogr.am/micmath/post/using-phantomjs-to-measure-web-page-performance  
+**References:**  
+1. http://phantomjs.org/    
+2. https://github.com/marcelduran/yslow/wiki/PhantomJS    
+Also: http://scriptogr.am/micmath/post/using-phantomjs-to-measure-web-page-performance    
