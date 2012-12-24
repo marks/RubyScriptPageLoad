@@ -41,7 +41,7 @@ Here's a quick solution that executes a phantomjs[1] yslow[2] script inside a ru
 
 Honestly not sure if it includes @import support but can definitely be added.
 
-**Code!**
+**Code!** at https://github.com/marks/RubyScriptPageLoad
 
 
 **References:**
